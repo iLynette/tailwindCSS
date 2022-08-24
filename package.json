@@ -1,0 +1,27 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLynette/tailwindCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLynette/tailwindCSS/issues"
+  },
+  "homepage": "https://github.com/iLynette/tailwindCSS#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
